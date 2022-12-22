@@ -1,0 +1,13 @@
+{
+  "name": "SAMAN MUMTAZ's Portfolio",
+  "short_name": "Samesi Portfolio",
+  "start_url": "/",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff",
+  "theme_color": "#ffffff",
+  "description": "Showcasing my collection of works and projects.",
+  "dir": "ltr",
+  "lang": "en-US"
+}
